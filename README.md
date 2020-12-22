@@ -21,3 +21,20 @@ batch file codes for the system backup
 /r overwrites read-only files
 /y suppresses prompts confirming you want to overwrite read only files
 -------------------------------------------------------------------------------------------------------------------------------
+                                                         VBS Popup numbers
+
+0 -- OK
+1 -- OK and Cancel
+2 -- Abort, Retry, and Ignore
+3 -- Yes, No, and Cancel
+4 -- Yes and No
+5 -- Retry and Cancel
+
+0 -- No icon
+16 -- Critical icon
+32 -- Question mark icon
+48 -- Warning icon
+64 -- Information icon
+
+Example
+
