@@ -1,2 +1,2 @@
-@ECHO Off
+@Echo Off
 ipconfig/release
