@@ -36,5 +36,5 @@ batch file codes for the system backup
 48 -- Warning icon
 64 -- Information icon
 
-Example
-
+where you would place the number you would place #+#
+example number set would be 2+16
