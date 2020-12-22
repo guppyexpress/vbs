@@ -1,0 +1,5 @@
+you can add this scrypt to the end of any .vbs code and it helps hide it from the system so that its really really hard to see and find
+
+
+
+objShell.Run strCommand, vbHide, TRUE
