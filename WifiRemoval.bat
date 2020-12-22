@@ -1,0 +1,2 @@
+@ECHO Off
+ipconfig/release
