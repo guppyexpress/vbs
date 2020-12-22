@@ -1,0 +1,4 @@
+so i included an INF file that i made, which if you have just the CD.vbs and that autorun.inf in a flash drive, the second you plug a flash drive in it will automatically run the cd thing and the cd code is desgined for auto looping and thus it will just auto popout the cd thing just by plugging in a USB
+
+
+.inf files for auto run are danger dont plug in random flash drives!
