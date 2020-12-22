@@ -10,7 +10,7 @@ The motto is do NO actual harm. And make sure you tell your 'victim' how to retu
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-batch file codes for the system backup
+                                            batch file codes for the system backup
 
 /s copies system files
 /c carries out the command specified by the string, then terminates
@@ -37,4 +37,6 @@ batch file codes for the system backup
 64 -- Information icon
 
 where you would place the number you would place #+#
-example number set would be 2+16
+example
+x=msgbox("Your Text Here" ,2+16, "Your Title Here")
+
