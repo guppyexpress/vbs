@@ -1,0 +1,1 @@
+4335 Rule. It means that if we enter four words separated by spaces, wherein the first word has 4 letters, the next two have three letters each, and the last word has five letters. Then Notepad Automatically hides the text into unknown code.
